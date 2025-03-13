@@ -4,8 +4,8 @@ Bonjour ! Je suis Priscillia Brucker, étudiante en BUT Informatique. 👩‍�
 
 ## À propos de moi
 
-Passionnée par la technologie et l'innovation, mon parcours en BUT Informatique me permet d'acquérir des compétences variées, allant du développement logiciel à la gestion de projets.
-En parallèle, je suis une joueuse de football depuis plusieurs années !
+Passionnée par la technologie et l'innovation, mon parcours en BUT Informatique me permet d'acquérir des compétences variées, allant du développement logiciel à la gestion de projets. 
+\\En parallèle, je suis une joueuse de football depuis plusieurs années !
 
 ## Mes compétences
 
